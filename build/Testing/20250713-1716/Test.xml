@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250713-1716-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.30.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="YIFANs-MacBook-Air.local"
+	OSRelease="13.4"
+	OSVersion="22F66"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="Apple"
+	VendorID="Apple"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="5120"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Jul 13 18:28 BST</StartDateTime>
+		<StartTestTime>1752427686</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 13 18:28 BST</EndDateTime>
+		<EndTestTime>1752427686</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
