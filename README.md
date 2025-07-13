@@ -154,10 +154,6 @@ The project includes comprehensive Google Tests covering:
 
 Run tests with: `./orderbook_tests`
 
-## License
-
-This project is provided as-is for educational and demonstration purposes.
-
 # Configure and build
 cmake ..
 make -j$(nproc)
